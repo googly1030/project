@@ -1,0 +1,14 @@
+
+body{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 670px;
+    background-image: url("/imgs/boruto-uzumaki-minimal-art.jpg");
+}
+form{
+    
+    background-color:whitesmoke;
+    border-radius:10px;
+}
+
